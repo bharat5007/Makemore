@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "a5daac383e0d420a373aa7691477b50ee4843d03",
+  "prompts": {
+    "bb2538db19623ddf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef03235c-baae-44f6-83db-8de247e8fcd8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "bharat5007 <bharatgoyal5007@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
